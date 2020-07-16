@@ -9,7 +9,7 @@
         <input
           class="input"
           type="text"
-          placeholder="Text input"
+          placeholder="Student first name"
           v-model="new_firstname"
         />
       </div>
@@ -23,7 +23,7 @@
         <input
           class="input"
           type="text"
-          placeholder="Text input"
+          placeholder="Student last name"
           v-model="new_lastname"
         />
       </div>
